@@ -80,13 +80,14 @@ endmodule
 
 
 Developed by: RegisterNumber:25018219
+NAME : INDHUJA K
 
-Logic symbol & Truthtable
 
 RTL realization Output:
 <img width="1321" height="852" alt="LOGIC" src="https://github.com/user-attachments/assets/fb8c96db-772e-4667-b6c7-86db4fc27bb2" />
 
 WAVEFORM:
+<img width="1400" height="834" alt="logic gates" src="https://github.com/user-attachments/assets/27beefb7-5805-4b84-a7c8-49e8282f9e08" />
 
 Result:
 Thus the basic logic gates are studied and the truth table are verified.
